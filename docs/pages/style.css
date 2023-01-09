@@ -11,3 +11,11 @@ strong.time {
 h1, h2, h3 {
     margin-top: 1em;
 }
+
+span.checked {
+    text-decoration: line-through;
+}
+
+li:has( span.checked)::after {
+    content: " (prenotato)"
+}
