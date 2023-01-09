@@ -1,6 +1,6 @@
 # Festival della Realtà Virtuale, seconda edizione
 
-_Settimana dello studente - 9-14 gennaio 2023_
+_Settimana dello studente - 11-13 gennaio 2023_
 
 La settimana dello studente è un momento, a metà dell’anno scolastico, dove studenti e docenti della nostra scuola propongono attività di ripasso e potenziamento su tutte le materie.
 
