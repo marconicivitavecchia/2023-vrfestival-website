@@ -186,10 +186,13 @@ footer {
   /* margin-bottom: 3em; */
 }
 
-#watch>ul{
-  margin-top:1em;
+#watch>ul {
+  margin-top: 1em;
 }
 
+#watch li {
+  margin-top: 2em;
+}
 
 .yt-container {
   position: relative;
